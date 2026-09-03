@@ -140,7 +140,7 @@ Basic accessibility practices were incorporated through semantic elements, acces
 
 **Live Application:**
 
-[ADD DEPLOYED APPLICATION URL HERE]
+https://ict-930-skill-track.vercel.app/
 
 **GitHub Repository:**
 
