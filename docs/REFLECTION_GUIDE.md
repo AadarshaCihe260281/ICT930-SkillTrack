@@ -1,6 +1,5 @@
 # Reflection Guide – 1500–2000 Words
 
-Use this guide to write your own team reflection. The final submission must represent your team's actual development experience.
 
 ## 1. Introduction
 Explain the SkillTrack problem domain, target users and project objective.
@@ -26,7 +25,7 @@ Discuss:
 - User feedback
 
 ## 4. Challenges and solutions
-Use real examples from your project, such as:
+
 - Git branch integration
 - State synchronisation
 - Filtering/search
@@ -36,7 +35,6 @@ Use real examples from your project, such as:
 - Progress calculation
 
 ## 5. Industry relevance
-Connect the project to modern frontend development:
 - Component reuse
 - Client-side routing
 - State management
@@ -46,7 +44,6 @@ Connect the project to modern frontend development:
 - Maintainability and professional workflows
 
 ## 6. Individual reflection
-Each member should explain:
 - Their actual contribution
 - What they learned
 - A challenge they faced
@@ -54,8 +51,7 @@ Each member should explain:
 - What they would improve
 
 ## 7. Conclusion
-Summarise the team's outcomes and how the project demonstrates frontend development skills.
 
 ## Referencing
 
-Use APA style where external sources are used. Cite sources in the reflection and include a reference list. Do not invent references.
+Use APA style where external sources are used. Cite sources in the reflection and include a reference list. 
