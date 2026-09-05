@@ -1,6 +1,5 @@
 # Screenshot Checklist
 
-Capture at least six screenshots after the final UI is tested.
 
 - [ ] Home with animated logo – desktop
 - [ ] Career goals / roadmap – desktop
