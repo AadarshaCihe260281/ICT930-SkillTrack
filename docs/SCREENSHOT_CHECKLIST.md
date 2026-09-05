@@ -12,6 +12,3 @@ Capture at least six screenshots after the final UI is tested.
 - [ ] Profile validation – desktop
 - [ ] Home or Courses – mobile
 - [ ] Mobile navigation
-- [ ] Certificate after completing a course
-
-Use screenshots of your team's actual final application.
