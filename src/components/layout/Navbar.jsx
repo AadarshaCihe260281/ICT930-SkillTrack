@@ -31,7 +31,7 @@ export default function Navbar() {
             src="/skilltrack-logo.png"
             alt="SkillTrack"
           />
-          <span className="brand-name">SkillTrack</span>
+         
         </NavLink>
 
         <button
