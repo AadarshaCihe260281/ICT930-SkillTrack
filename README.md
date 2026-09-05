@@ -2,11 +2,11 @@
 
 ## 1. Project Overview
 
-SkillTrack is a responsive education and training platform developed using React. The system is designed to help learners manage their learning journey by discovering courses, tracking learning progress, following a career roadmap, completing quizzes, and earning achievements.
+SkillTrack is an interactive platform used for educational and training purposes which uses React. The tool helps users in managing their learning experience through discovery of courses, tracking of progress in learning, career path, taking quizzes, and acquiring achievements.
 
-The application provides multiple interactive views including a home page, course catalogue, course details, dashboard, career roadmap, achievements, quiz, certificate, and profile.
+The application allows viewing several interactive pages such as Home, Course Catalogue, Course Details, Dashboard, Career Path, Achievements, Quiz, Certificate, and Profile.
 
-SkillTrack was developed with a focus on reusable components, client-side navigation, state management, asynchronous data loading, responsive design, accessibility, and an engaging user experience.
+SkillTrack was built using concepts such as reusable components, client-side routing, state management, asynchronous requests, responsiveness, accessibility, and good user experience.
 
 ## 2. Technology Stack
 
@@ -110,31 +110,30 @@ npm run preview
 
 ### Component-Based Architecture
 
-The application is organised into reusable React components to improve consistency, maintainability, and code reuse. Components such as navigation, course cards, buttons, progress bars, loading messages, error messages, and modals are reused throughout the application.
+The application consists of React components that are reusable for ensuring consistency, maintainability, and code reuse. Examples of components include navigation, courses, buttons, progress bar, loading message, error message, and modal components.
 
 ### Client-Side Routing
 
-React Router is used to provide navigation between the different views of the application without requiring traditional full-page navigation.
+React Router is used for navigating through the various views of the application without the need for regular page navigation.
 
 ### State Management
 
-React Hooks are used for local component state, while the React Context API is used for shared application state such as learner information, course progress, achievements, and theme preferences.
+React Hooks are employed to manage state for local components, whereas the React Context API is applied to handle state across the entire application like that of the learner, courses, achievements, and themes.
 
 ### Separation of Data and Interface
 
-Course information is stored separately in JSON data, while `courseService.js` provides the data-loading functionality. This separation makes the application easier to maintain and provides a foundation for replacing the mock data with a real API in the future.
+The course details are saved in JSON format, whereas the `courseService.js` contains the mechanism through which the data can be loaded. This design makes the application easy to manage and sets the base to integrate the actual API instead of the mock data.
 
 ### Responsive Design
-
-The interface uses responsive CSS layouts and media queries so that SkillTrack can be used on desktop, tablet, and mobile devices. The navigation also changes to a mobile-friendly menu on smaller screens.
+The interface incorporates responsive CSS layouts and media queries that allow SkillTrack to function properly on desktops, tablets, and smartphones. Navigation is altered into mobile navigation on mobile screens.
 
 ### User Experience
 
-The design uses consistent cards, buttons, spacing, headings, progress indicators, and feedback messages. Features such as the learning streak, achievements, roadmap, quiz, and certificate were included to make the learning experience more engaging and motivating.
+The interface design is based on a consistent card style, buttons, spacing, headings, feedback messages, and other elements. Such features as a learning streak, achievements, roadmap, quiz, and a certificate were added for motivation and engagement purposes.
 
 ### Accessibility
 
-Basic accessibility practices were incorporated through semantic elements, accessible navigation labels, form labels, alternative text, keyboard-friendly controls, focus states, and reduced-motion support.
+Accessibility was ensured through the use of the following techniques: semantics, navigation label, form label, alternative text, keyboard-accessible controls, focus state, and reduced motion.
 
 ## 6. Deployed Application URL
 
